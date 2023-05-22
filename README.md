@@ -23,11 +23,7 @@
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hope-208&layout=compact)](https://github.com/hope-208/github-readme-stats) 
 <br>
-<h3>Репозитории проектов:</h3> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hope-208&repo=mesto)](https://github.com/hope-208/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hope-208&repo=russian-travel)](https://github.com/hope-208/github-readme-stats)
-<br>
 <h3>📫 Как со мной связаться:</h3>
 
 <a href="https://t.me/hope12583" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://api.whatsapp.com/send?phone=79170563448" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> <a href="mailto:Telepenina.N.S@yandex.ru" target="_blank"><img height="29" src="https://static.tildacdn.com/tild3637-3536-4162-a561-613564666538/noroot.png" alt="Яндекс Почта"></a>
