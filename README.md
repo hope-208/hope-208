@@ -27,6 +27,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hope-208&repo=mesto)](https://github.com/hope-208/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hope-208&repo=russian-travel)](https://github.com/hope-208/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hope-208&repo=how-to-learn)](https://github.com/hope-208/github-readme-stats)
 <br>
 <h3>📫 Как со мной связаться:</h3>
 
